@@ -1,0 +1,7 @@
+Executable : D:\android_sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+D:\ncnn-android-yolox-main\app\.cxx\cmake\debug\armeabi-v7a
+ncnnyolox
+jvmArgs : 
+

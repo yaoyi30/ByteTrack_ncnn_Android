@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cpugpu_array">
+        <item>CPU</item>
+        <item>GPU</item>
+    </string-array>
+    <string-array name="model_array">
+        <item>bytetrack-nano</item>
+        <item>bytetrack-tiny</item>
+    </string-array>
+    <string name="app_name">bytetrackncnn</string>
+</resources>

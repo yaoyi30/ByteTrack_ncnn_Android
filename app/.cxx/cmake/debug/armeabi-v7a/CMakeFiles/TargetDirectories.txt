@@ -1,0 +1,3 @@
+D:/ncnn-android-yolox-main/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/ncnn-android-yolox-main/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/ncnnyolox.dir
+D:/ncnn-android-yolox-main/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir

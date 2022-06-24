@@ -1,0 +1,19 @@
+Executable : D:\android_sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HD:\ncnn-android-yolox-main\app\src\main\jni
+-BD:\ncnn-android-yolox-main\app\.cxx\cmake\debug\armeabi-v7a
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_PLATFORM=android-24
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\ncnn-android-yolox-main\app\build\intermediates\cmake\debug\obj\armeabi-v7a
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=D:\android_sdk\ndk\22.1.7171670
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a
+-DCMAKE_SYSTEM_VERSION=24
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_ANDROID_NDK=D:\android_sdk\ndk\22.1.7171670
+-DCMAKE_TOOLCHAIN_FILE=D:\android_sdk\ndk\22.1.7171670\build\cmake\android.toolchain.cmake
+-G Ninja
+-DCMAKE_MAKE_PROGRAM=D:\android_sdk\cmake\3.10.2.4988404\bin\ninja.exe
+jvmArgs : 
+

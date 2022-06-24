@@ -1,0 +1,27 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\ncnn-android-yolox-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\ncnn-android-yolox-main\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,2",
+                        "startColumns": "-1,-1,4",
+                        "startOffsets": "-1,-1,55",
+                        "endColumns": "-1,-1,50",
+                        "endOffsets": "-1,-1,101"
+                    },
+                    "to": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,164,294",
+                        "endLines": "5,9,10",
+                        "endColumns": "19,19,50",
+                        "endOffsets": "159,289,340"
+                    }
+                }
+            ]
+        }
+    ]
+}

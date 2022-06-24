@@ -1,0 +1,14 @@
+ninja: Entering directory `D:\ncnn-android-yolox-main\app\.cxx\cmake\debug\arm64-v8a'
+[1/2] Building CXX object CMakeFiles/ncnnyolox.dir/yolox.cpp.o
+In file included from D:/ncnn-android-yolox-main/app/src/main/jni/yolox.cpp:23:
+D:/ncnn-android-yolox-main/app/src/main/jni/BYTETracker.h:29:48: warning: implicit conversion from 'long' to 'float' changes value from 9223372036854775807 to 9223372036854775808 [-Wimplicit-const-int-float-conversion]
+                bool extend_cost = false, float cost_limit = LONG_MAX, bool return_cost = true);
+                                                           ~ ^~~~~~~~
+D:\android_sdk\ndk\22.1.7171670\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\11.0.5\include\limits.h:47:19: note: expanded from macro 'LONG_MAX'
+#define LONG_MAX  __LONG_MAX__
+                  ^~~~~~~~~~~~
+<built-in>:63:22: note: expanded from here
+#define __LONG_MAX__ 9223372036854775807L
+                     ^~~~~~~~~~~~~~~~~~~~
+1 warning generated.
+[2/2] Linking CXX shared library D:\ncnn-android-yolox-main\app\build\intermediates\cmake\debug\obj\arm64-v8a\libncnnyolox.so
